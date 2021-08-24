@@ -8,11 +8,11 @@ Email: zhangzhenkevin2017@gmail.com
 
 ## Interest
 ### Application of deep learning, reinforcement learning and other AI strategies in
-* [Financial time-series processing](https://www.baidu.com)
-* [Image processing and object detection](https://www.baidu.com)
+* [Financial time-series processing](finance.html)
+* [Image processing and object detection](social.html)
 * Natural language processing and sentiment analysis
-* [Recommender systems](https://www.baidu.com)
-* [Bioimage informatics](https://www.baidu.com)
+* Recommender systems
+* [Bioimage informatics](bio.html)
 
 
 
@@ -50,6 +50,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 * [Publication List](pub_list.html)
 * [Application of Reinforcement Learning in Financial Markets](finance.html)
 * [Image processing & Computer vision](social.html)
-* [Bioimage informatics](https://www.baidu.com)
-* [Transportation Analysis](https://www.baidu.com)
-* [Recommender System](https://www.baidu.com)
+* [Bioimage informatics](bio.html)
+* Transportation Analysis
+* Recommender System
