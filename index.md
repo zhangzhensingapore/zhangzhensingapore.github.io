@@ -1,19 +1,15 @@
 ## Life is hard, we need some fun ^_^
 
-You can use the [editor on GitHub](https://github.com/zhangzhensingapore/zhangzhensingapore.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 # Zhang Zhen
 Email: zhangzhenkevin2017@gmail.com
 
 ### Work Experience
-Feb 2018 – now      Singapore Data Science Consortium, School of Computing, NUS, Data Scientist  
-Jul 2017 – Feb 2018 Mechanobiology Institute, NUS, Research Assistant
+Feb 2018 – now ======> Singapore Data Science Consortium, School of Computing, NUS, Data Scientist  
+Jul 2017 – Feb 2018 => Mechanobiology Institute, NUS, Research Assistant
 
 ### Education
-Dec 2017  PhD (NGS), NUS, Mechanobiology Institute  
-Aug 2012  BEng, NUS, Electrical Engineering
+Dec 2017 => PhD (NGS), NUS, Mechanobiology Institute  
+Aug 2012 => BEng, NUS, Electrical Engineering
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
