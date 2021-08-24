@@ -16,6 +16,7 @@ Selected projects:
 * Deep learning-based chatbot
 * Deep learning-based entity matching
 * Optimization in product packaging in manufacturing
+
 Design, manage and conduct courses (both theory and hands-on sessions) under various machine learning topics for data analysts, engineers and scientists from both industry and government.
 
 
