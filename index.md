@@ -46,10 +46,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 ## What I did
-* [Teaching](www.baidu.com)
-* [Publication List]
-* [Application of Reinforcement Learning in Financial Markets](www.baidu.com)
-* [Image processing & Computer vision](www.baidu.com)
-* [Bioimage informatics](www.baidu.com)
-* [Transportation Analysis](www.baidu.com)
-* [Recommender System](www.baidu.com)
+* [Teaching](https://www.baidu.com)
+* [Publication List](https://www.baidu.com)
+* [Application of Reinforcement Learning in Financial Markets](https://www.baidu.com)
+* [Image processing & Computer vision](https://www.baidu.com)
+* [Bioimage informatics](https://www.baidu.com)
+* [Transportation Analysis](https://www.baidu.com)
+* [Recommender System](https://www.baidu.com)
