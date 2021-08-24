@@ -17,7 +17,7 @@ Email: zhangzhenkevin2017@gmail.com
 
 
 ## Work Experience
-### Feb 2018 – now ====> Singapore Data Science Consortium, School of Computing, NUS, Data Scientist 
+### Feb 2018 – now => Singapore Data Science Consortium, School of Computing, NUS, Data Scientist 
 Involved in projects in different industries. Jobs include project scoping, project management, algorithm development and data management
 Selected projects:
 * Data management and market prediction in healthcare
