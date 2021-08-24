@@ -42,9 +42,6 @@ Design, manage and conduct courses (both theory and hands-on sessions) under var
 <img src="1.jpg" alt="drawing" height="200"/><img src="2.jpg" alt="drawing" height="200"/>
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
 ## What I did
 * [Teaching](teaching.html)
 * [Publication List](pub_list.html)
