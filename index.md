@@ -44,14 +44,12 @@ Design, manage and conduct courses (both theory and hands-on sessions) under var
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
 ## What I did
-* .[Teaching].(www.baidu.com)
-* .[Publication List].
-* .[Application of Reinforcement Learning in Financial Markets].(www.baidu.com)
-* .[Image processing & Computer vision].(www.baidu.com)
-* .[Bioimage informatics].(www.baidu.com)
-* .[Transportation Analysis].(www.baidu.com)
-* .[Recommender System].(www.baidu.com)
+* [Teaching](www.baidu.com)
+* [Publication List]
+* [Application of Reinforcement Learning in Financial Markets](www.baidu.com)
+* [Image processing & Computer vision](www.baidu.com)
+* [Bioimage informatics](www.baidu.com)
+* [Transportation Analysis](www.baidu.com)
+* [Recommender System](www.baidu.com)
