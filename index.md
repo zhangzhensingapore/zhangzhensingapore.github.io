@@ -46,7 +46,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 ## What I did
-* [Teaching](https://www.baidu.com)
+* [Teaching](teaching.html)
 * [Publication List](pub_list.html)
 * [Application of Reinforcement Learning in Financial Markets](https://www.baidu.com)
 * [Image processing & Computer vision](https://www.baidu.com)
