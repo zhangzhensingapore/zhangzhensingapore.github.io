@@ -1,4 +1,4 @@
-## Life is hard, we need some fun ^_^
+## ^_^ Welcome to Zhang Zhen's Homepage ^_^
 
 # Zhang Zhen (Ph.D)
 
