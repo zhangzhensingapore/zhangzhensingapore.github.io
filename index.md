@@ -2,6 +2,7 @@
 
 # Zhang Zhen
 ![](zz_icon.JPG){ width=50% }
+
 Email: zhangzhenkevin2017@gmail.com
 
 ### Work Experience
