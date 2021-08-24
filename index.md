@@ -6,6 +6,14 @@
 
 Email: zhangzhenkevin2017@gmail.com
 
+## Interest
+### Application of deep learning and reinforcement learning in
+* Financial time-series processing
+* Image processing and object detection
+* Natural language processing and sentiment analysis
+* Recommender systems
+
+
 ## Work Experience
 ### Feb 2018 – now ====> Singapore Data Science Consortium, School of Computing, NUS, Data Scientist 
 Involved in projects in different industries. Jobs include project scoping, project management, algorithm development and data management
