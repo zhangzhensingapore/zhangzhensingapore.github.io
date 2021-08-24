@@ -49,7 +49,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 * [Teaching](teaching.html)
 * [Publication List](pub_list.html)
 * [Application of Reinforcement Learning in Financial Markets](https://www.baidu.com)
-* [Image processing & Computer vision](https://www.baidu.com)
+* [Image processing & Computer vision](social.html)
 * [Bioimage informatics](https://www.baidu.com)
 * [Transportation Analysis](https://www.baidu.com)
 * [Recommender System](https://www.baidu.com)
