@@ -7,12 +7,12 @@
 Email: zhangzhenkevin2017@gmail.com
 
 ## Interest
-### Application of deep learning and reinforcement learning in
-* Financial time-series processing
-* Image processing and object detection
+### Application of deep learning, reinforcement learning and other AI strategies in
+* [Financial time-series processing](https://www.baidu.com)
+* [Image processing and object detection](https://www.baidu.com)
 * Natural language processing and sentiment analysis
-* Recommender systems
-* Bioimage informatics
+* [Recommender systems](https://www.baidu.com)
+* [Bioimage informatics](https://www.baidu.com)
 
 
 
