@@ -4,7 +4,7 @@
 Email: zhangzhenkevin2017@gmail.com
 
 ### Work Experience
-Feb 2018 – now ======> Singapore Data Science Consortium, School of Computing, NUS, Data Scientist  
+Feb 2018 – now ====> Singapore Data Science Consortium, School of Computing, NUS, Data Scientist  
 Jul 2017 – Feb 2018 => Mechanobiology Institute, NUS, Research Assistant
 
 ### Education
