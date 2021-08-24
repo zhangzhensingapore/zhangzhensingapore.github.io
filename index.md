@@ -1,7 +1,7 @@
 ## Life is hard, we need some fun ^_^
 
 # Zhang Zhen
-![](zz_icon.JPG)
+![](zz_icon.JPG){ width=50% }
 Email: zhangzhenkevin2017@gmail.com
 
 ### Work Experience
