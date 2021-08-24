@@ -2,6 +2,7 @@
 
 # Zhang Zhen
 ![](zz_icon.JPG){ width=50% }
+<img src="drawing.jpg" alt="drawing" width="200"/>
 
 Email: zhangzhenkevin2017@gmail.com
 
