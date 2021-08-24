@@ -28,7 +28,6 @@ Selected projects:
 
 Design, manage and conduct courses (both theory and hands-on sessions) under various machine learning topics for data analysts, engineers and scientists from both industry and government.
 
-### Jul 2017 – Feb 2018 => Mechanobiology Institute, NUS, Research Assistant
 
 
 ## Education
