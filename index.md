@@ -12,6 +12,7 @@ Email: zhangzhenkevin2017@gmail.com
 * Image processing and object detection
 * Natural language processing and sentiment analysis
 * Recommender systems
+* Bioimage informatics
 
 
 
@@ -19,7 +20,7 @@ Email: zhangzhenkevin2017@gmail.com
 ### Feb 2018 – now ====> Singapore Data Science Consortium, School of Computing, NUS, Data Scientist 
 Involved in projects in different industries. Jobs include project scoping, project management, algorithm development and data management
 Selected projects:
-* data management and market prediction in healthcare
+* Data management and market prediction in healthcare
 * Deep learning-based social distancing monitoring 
 * Integrated recommender systems for online shopping
 * Deep learning-based chatbot
@@ -46,27 +47,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhangzhensingapore/zhangzhensingapore.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## What I did
+* .[Teaching].(www.baidu.com)
+* .[Publication List].
+* .[Application of Reinforcement Learning in Financial Markets].(www.baidu.com)
+* .[Image processing & Computer vision].(www.baidu.com)
+* .[Bioimage informatics].(www.baidu.com)
+* .[Transportation Analysis].(www.baidu.com)
+* .[Recommender System].(www.baidu.com)
