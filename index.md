@@ -1,7 +1,7 @@
 ## Life is hard, we need some fun ^_^
 
 # Zhang Zhen
-![](zz_icon.JPG){ width=50% }
+
 <img src="zz_icon.JPG" alt="drawing" width="200"/>
 
 Email: zhangzhenkevin2017@gmail.com
@@ -13,6 +13,9 @@ Jul 2017 – Feb 2018 => Mechanobiology Institute, NUS, Research Assistant
 ### Education
 Dec 2017 => PhD (NGS), NUS, Mechanobiology Institute  
 Aug 2012 => BEng, NUS, Electrical Engineering
+
+### Hobbies
+<img src="1.jpg" alt="drawing" height="200"/><img src="2.jpg" alt="drawing" height="200"/>
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
