@@ -33,6 +33,7 @@ Design, manage and conduct courses (both theory and hands-on sessions) under var
 ## Education
 ### Dec 2017 => PhD (NGS), NUS, Mechanobiology Institute  
 * Thesis Title: Topological Analysis of Cytoskeletal Networks from Single-Molecule Localization Microscopy Images
+
 ### Aug 2012 => BEng, NUS, Electrical Engineering
 
 
