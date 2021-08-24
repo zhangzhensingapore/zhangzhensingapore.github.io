@@ -1,6 +1,6 @@
 ## Life is hard, we need some fun ^_^
 
-# Zhang Zhen
+# Zhang Zhen (Ph.D)
 
 <img src="zz_icon.JPG" alt="drawing" width="200"/>
 
