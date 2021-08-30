@@ -6,6 +6,10 @@
 
 Email: zhangzhenkevin2017@gmail.com
 
+## Want recommended NASDAQ100 stocks selected by Advanced Machine Learning Models?
+* [zhangzhen-finance.github.io](https://zhangzhen-finance.github.io)
+
+
 ## Interest
 ### Application of deep learning, reinforcement learning and other AI strategies in
 * [Quantitative Trading Strategies](quant.html)
