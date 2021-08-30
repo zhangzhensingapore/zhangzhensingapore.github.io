@@ -8,6 +8,7 @@ Email: zhangzhenkevin2017@gmail.com
 
 ## Interest
 ### Application of deep learning, reinforcement learning and other AI strategies in
+* [Quantitative Trading Strategies](quant.html)
 * [Financial time-series processing](finance.html)
 * [Image processing and object detection](social.html)
 * Natural language processing and sentiment analysis
@@ -43,6 +44,7 @@ Design, manage and conduct courses (both theory and hands-on sessions) under var
 
 
 ## What I did
+* [Quantitative Trading Strategies](quant.html)
 * [Teaching](teaching.html)
 * [Publication List](pub_list.html)
 * [Application of Reinforcement Learning in Financial Markets](finance.html)
