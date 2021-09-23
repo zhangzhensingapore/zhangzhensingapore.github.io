@@ -31,6 +31,7 @@ Selected projects:
 * Deep learning-based chatbot
 * Deep learning-based entity matching
 * Optimization in product packaging in manufacturing
+* Data management and optimization on cloud platforms
 
 Design, manage and conduct courses (both theory and hands-on sessions) under various machine learning topics for data analysts, engineers and scientists from both industry and government.
 
@@ -42,6 +43,10 @@ Design, manage and conduct courses (both theory and hands-on sessions) under var
 
 ### Aug 2012 => BEng, NUS, Electrical Engineering
 
+
+## Hands-on coding experience 
+Main: Python, SQL (Spark)
+Others: Hive, Java (Hadoop), MATLAB, C, Scala, HTML
 
 ## Hobbies
 <img src="1.jpg" alt="drawing" height="200"/><img src="2.jpg" alt="drawing" height="200"/>
