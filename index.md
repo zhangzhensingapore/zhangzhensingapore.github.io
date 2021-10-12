@@ -15,8 +15,8 @@ Email: zhangzhenkevin2017@gmail.com
 * [Quantitative Trading Strategies](quant.html)
 * [Financial time-series processing](finance.html)
 * [Image processing and object detection](social.html)
-* Natural language processing and sentiment analysis
-* Recommender systems
+* [Natural language processing and sentiment analysis](https://zhangzhen-finance.github.io)
+* [Recommender systems](recommend.pdf)
 * [Bioimage informatics](bio.html)
 
 
