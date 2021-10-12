@@ -59,5 +59,5 @@ Others: Hive, Java (Hadoop), MATLAB, C, Scala, HTML
 * [Application of Reinforcement Learning in Financial Markets](finance.html)
 * [Image processing & Computer vision](social.html)
 * [Bioimage informatics](bio.html)
-* Transportation Analysis
-* Recommender System
+* [Transportation Analysis](transport.pdf)
+* [Recommender System](recommend.pdf)
