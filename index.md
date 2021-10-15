@@ -26,11 +26,11 @@ Email: zhangzhenkevin2017@gmail.com
 Involved in projects in different industries. Jobs include project scoping, project management, algorithm development and data management
 Selected projects:
 * Data management and market prediction in healthcare
-* Deep learning-based social distancing monitoring 
-* Integrated recommender systems for online shopping
+* [Deep learning-based social distancing monitoring] (social.html)
+* [Integrated recommender systems for online shopping](recommend.pdf)
 * Deep learning-based chatbot
-* Deep learning-based entity matching
-* Optimization in product packaging in manufacturing
+* [Deep learning-based entity matching](matcher.pdf)
+* [Optimization in product packaging in manufacturing](binpacking.gif)
 * Data management and optimization on cloud platforms
 
 Design, manage and conduct courses (both theory and hands-on sessions) under various machine learning topics for data analysts, engineers and scientists from both industry and government.
